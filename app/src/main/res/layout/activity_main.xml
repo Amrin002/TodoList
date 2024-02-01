@@ -17,16 +17,6 @@
         android:textColor="@color/orange"
         android:textSize="24sp"
         />
-    <com.google.android.material.floatingactionbutton.FloatingActionButton
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/profilButton"
-        android:src="@drawable/profil"
-        android:tint="@color/orange"
-        android:backgroundTint="@color/orange"
-        android:layout_alignParentRight="true"
-        android:layout_margin="10dp"
-        />
 
     <androidx.recyclerview.widget.RecyclerView
         android:layout_width="match_parent"
